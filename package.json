@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./css/style.css --style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustinLegrand/portfolio.git"
+  },
+  "author": "AugustinLegrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustinLegrand/portfolio/issues"
+  },
+  "homepage": "https://github.com/AugustinLegrand/portfolio#readme"
+}
